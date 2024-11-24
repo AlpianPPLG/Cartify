@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "IPhone 15 Pro Max",
+    "description": "Smartphone premium dari Apple.",
+    "price": 25000000,
+    "discount": 10,
+    "sold": 150,
+    "rating": 4.5,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-134610255/apple_iphone_15_pro_max_full01_vpsbgoxl.jpg",
+    "category": "smartphone"
+  },
+  {
+    "id": 2,
+    "title": "CCA Trio",
+    "description": "Earphone berkualitas tinggi.",
+    "price": 250000,
+    "discount": 20,
+    "sold": 200,
+    "rating": 4.7,
+    "image": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2024/5/30/a06ac80a-5b87-4a95-83b5-23db1c1f12b4.png",
+    "category": "audio"
+  },
+  {
+    "id": 3,
+    "title": "Fantech WGC5S Mouse Gaming",
+    "description": "Mouse gaming dengan presisi tinggi.",
+    "price": 150000,
+    "discount": 5,
+    "sold": 120,
+    "rating": 4.3,
+    "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/20/e5c0c18e-9518-40ec-a122-52887f18d5d3.jpg",
+    "category": "gaming"
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy S23 Ultra",
+    "description": "Smartphone flagship dengan fitur terbaik dari Samsung.",
+    "price": 20000000,
+    "discount": 15,
+    "sold": 95,
+    "rating": 4.8,
+    "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/15/a114514a-5af0-4ac6-8d90-b1938b488818.jpg",
+    "category": "smartphone"
+  },
+  {
+    "id": 5,
+    "title": "Sony WH-1000XM5",
+    "description": "Headphone nirkabel dengan noise-cancelling terbaik.",
+    "price": 3000000,
+    "discount": 10,
+    "sold": 180,
+    "rating": 4.6,
+    "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/8/6/9794b917-133f-4a6c-8fb9-82b45241b356.jpg",
+    "category": "audio"
+  },
+  {
+    "id": 6,
+    "title": "Logitech G502 Lightspeed",
+    "description": "Mouse gaming nirkabel dengan performa terbaik.",
+    "price": 1800000,
+    "discount": 5,
+    "sold": 300,
+    "rating": 4.9,
+    "image": "https://down-id.img.susercontent.com/file/f0389c32e15a413faded5c0346342366",
+    "category": "gaming"
+  },
+  {
+    "id": 7,
+    "title": "Xiaomi Mi 11 Ultra",
+    "description": "Smartphone premium dari Xiaomi.",
+    "price": 5000000,
+    "discount": 10,
+    "sold": 150,
+    "rating": 4.5,
+    "image": "https://i01.appmifile.com/webfile/globalimg/id/cms/22E9EE4F-680E-EEE6-E9B4-31C00F671B44!800x800!85.jpg",
+    "category": "smartphone"
+  },
+  {
+    "id": 8,
+    "title": "JBL Flip 5",
+    "description": "Headphone berkualitas tinggi.",
+    "price": 1700000,
+    "discount": 20,
+    "sold": 200,
+    "rating": 4.7,
+    "image": "https://cworld.id/wp-content/uploads/2022/08/ezgif.com-gif-maker96-1.jpeg",
+    "category": "audio"
+  },
+  {
+    "id": 9,
+    "title": "Razer Viper Mini",
+    "description": "Mouse gaming berkualitas tinggi.",
+    "price": 350000,
+    "discount": 5,
+    "sold": 120,
+    "rating": 4.3,
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-9383101/razer_razer_viper_mini_mouse_gaming_ultralight_61gr_original_chroma_8500_dpi_full01_d7gr378b.jpg",
+    "category": "gaming"
+  }
+]
