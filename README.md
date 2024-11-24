@@ -1,6 +1,6 @@
 # Cartify
 
-Cartify adalah sebuah platform e-commerce yang memungkinkan pengguna untuk mencari produk, menambahkannya ke keranjang belanja, serta memilih metode pembayaran dan pengiriman. Proyek ini dibuat menggunakan HTML, CSS (Tailwind dan Bootstrap), serta JavaScript untuk fungsionalitas interaktif.
+Cartify adalah sebuah platform e-commerce yang memungkinkan pengguna untuk mencari produk, menambahkannya ke keranjang belanja, serta memilih metode pembayaran dan pengiriman. Proyek ini dibuat menggunakan HTML, CSS (Bootstrap), serta JavaScript untuk fungsionalitas interaktif.
 
 ## Fitur Utama
 
@@ -25,8 +25,6 @@ Cartify adalah sebuah platform e-commerce yang memungkinkan pengguna untuk menca
   Untuk struktur dasar halaman web.
 
 - **CSS**  
-  - **Tailwind CSS**  
-    Untuk styling dengan utility-first approach.
   - **Bootstrap**  
     Untuk beberapa komponen UI seperti tombol dan modal.
 
@@ -43,12 +41,12 @@ Cartify adalah sebuah platform e-commerce yang memungkinkan pengguna untuk menca
 
 1. Clone repository ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/username/toko-online.git
+   git clone https://github.com/AlpianPPLG/Cartify
    ```
 
 2. Buka folder proyek:
    ```bash
-   cd toko-online
+   cd Cartify
    ```
 
 3. Buka file `index.html` di browser favorit Anda untuk melihat aplikasi berjalan.
